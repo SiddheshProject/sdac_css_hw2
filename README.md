@@ -17,4 +17,4 @@ CSS HomeWork 2
 ![q5](q5.png)
 
 # Q6
-
+![q6](q6.png)
