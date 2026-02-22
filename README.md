@@ -24,3 +24,8 @@ CSS HomeWork 2
 
 # Q8
 ![q8](q8.png)
+
+# Q9
+![q9](q9.png)
+
+# Q10
