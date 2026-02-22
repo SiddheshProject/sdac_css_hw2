@@ -5,3 +5,4 @@ CSS HomeWork 2
 ![q1](q1.png)
 
 # Q2
+![q2](q2.png)
