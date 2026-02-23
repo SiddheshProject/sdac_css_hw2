@@ -29,13 +29,11 @@ CSS HomeWork 2
 ![q9](q9.png)
 
 # Q10
-
+![q10](q10.png)
 
 # Q11
 ![q11](q11.png)
 
 # Q12
-
-
-# Q14
-
+![q12](q12.png)
+![q12-1](q12-1.png)
