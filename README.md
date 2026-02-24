@@ -37,3 +37,5 @@ CSS HomeWork 2
 # Q12
 ![q12](q12.png)
 ![q12-1](q12-1.png)
+
+# Q13
